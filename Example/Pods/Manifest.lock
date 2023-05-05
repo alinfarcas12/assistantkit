@@ -1,0 +1,16 @@
+PODS:
+  - AssistantKit (0.6.1)
+
+DEPENDENCIES:
+  - AssistantKit (from `../`)
+
+EXTERNAL SOURCES:
+  AssistantKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AssistantKit: 7dd40c019e9a06e93555ed58498a2d212fcb408d
+
+PODFILE CHECKSUM: d180ce989b148d647b5add10ddbe0c795a7a3cb0
+
+COCOAPODS: 1.11.3
